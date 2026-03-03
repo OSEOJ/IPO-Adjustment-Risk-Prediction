@@ -1,8 +1,6 @@
 <div align="center">
 
-# 📈 IPO 단기 조정 위험 선제적 식별
-
-### MTL 기반 비선형 가격 형성 분석을 통해
+# 📈 Early Identification of IPO Short-Term Adjustment Risk
 
 **Cross-Attention 기반 병렬 Multi-Task Learning을 활용한<br>IPO 상장 초기 가격 발견 완료 시점(T=22) 이후 시장 대비 성과 방향 예측**
 
