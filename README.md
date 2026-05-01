@@ -6,7 +6,7 @@
 
 **조영서 · 이경민**
 
-DB Insurance & Finance Contest
+DB Insurance & Finance Contest 입선
 
 </div>
 
